@@ -63,7 +63,8 @@ Este projeto é um catálogo de produtos personalizado, desenvolvido em Next.js 
 
 ## 📊 Lighthouse (desktop)
 
-![Lighthouse Screenshot](/public/assets/images/lighthouse-desktop.png)
+![Lighthouse Screenshot - Login](/public/assets/images/lighthouse-desktop.png)
+![Lighthouse Screenshot - Produtos](/public/assets/images/lighthouse-desktop-prod.png)
 
 - **Performance:** 95+
 - **Acessibilidade:** 100
