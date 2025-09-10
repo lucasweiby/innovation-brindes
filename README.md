@@ -83,7 +83,6 @@ _(Os resultados podem variar conforme ambiente e conexão. Imagem meramente ilus
 - Busca por nome/código (parcial)
 - Favoritar produtos
 - Modal de detalhes carregado sob demanda
-- Responsividade mobile/desktop
 
 ---
 
