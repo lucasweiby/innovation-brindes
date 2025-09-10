@@ -77,7 +77,8 @@ _(Os resultados podem variar conforme ambiente e conexão. Imagem meramente ilus
 
 ## 🎥 Demonstração do fluxo
 
-![Demonstração do fluxo](./public/assets/images/demo-fluxo.mp4)
+![Demonstração do fluxo](./public/assets/images/demo-fluxo.gif)
+![Demonstração do fluxo](./public/assets/images/demo-fluxo-1.gif)
 
 - Busca por nome/código (parcial)
 - Favoritar produtos
